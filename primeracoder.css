@@ -1,0 +1,49 @@
+div{
+    margin: auto;
+    width: 700px;
+    text-align: center;
+}
+.contenedor{
+    border: solid 1px black;
+    padding: 20px;
+    border-color: #ddd9d9;
+}
+.datos img{
+    border-radius: 100%;
+}
+.datos h2{
+    font-size: 30px;
+}
+.datos p{
+    width: 660px;
+    margin-left: 30px;
+    font-size: 24px;
+}
+.habilidades h2{
+    margin-right: 700px;
+}
+.habilidades li{
+    list-style: none;
+    margin-top: 30px;
+    background-color: gray;
+    padding: 10px;
+    text-align: left;
+    color: white;
+}
+.primero{
+    width:500px;
+}
+.segundo{
+    width: 250px;
+}
+.tercero{
+    width: 100px;
+}
+.portafolio h2{
+    margin-right: 700px;
+}
+.seis{
+    width: 200px;
+    margin: 10px;
+    
+}
